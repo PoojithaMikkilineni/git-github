@@ -1,2 +1,3 @@
 # git-github
-This is for my basic file in git.
+This is my first repository in git.
+I will try to update more repositories.
